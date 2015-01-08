@@ -1,0 +1,15 @@
+package me.baronvonbubble.chocolate;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+
+public class ChocolateCake extends Block {
+	
+	public ChocolateCake(){
+		super(Material.cake);
+		setBlockName(Chocolate.MODID + "_chocolateCake");
+		setCreativeTab(CreativeTabs.tabBlock);
+		setBlockTextureName(Chocolate.MODID + ":" + "chocolateCake");
+	}
+}

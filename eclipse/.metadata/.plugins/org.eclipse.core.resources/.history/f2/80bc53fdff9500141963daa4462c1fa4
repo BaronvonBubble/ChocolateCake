@@ -1,0 +1,12 @@
+package me.baronvonbubble.chocolate;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class ChocolateCake extends Block {
+	
+	public ChocolateCake(){
+		super(Material.cake);
+		
+	}
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chocolate",
+  "name": "Chocolate",
+  "description": "I'm trying to add cake and it's not working so far.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bubbles"],
+  "credits": "Wuppy29, for the tutorial.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
