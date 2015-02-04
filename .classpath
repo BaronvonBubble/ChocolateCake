@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry excluding="assets/|assets/chocolate/textures/|assets/chocolate/textures/|assets/chocolate/textures/blocks/" kind="src" path="src/main/resources"/>
+	<classpathentry excluding="assets/|assets/chocolate/textures/blocks/|assets/chocolate/textures/|assets/chocolate/textures/|assets/chocolate/textures/blocks/" kind="src" path="src/main/resources"/>
 	<classpathentry kind="src" path="src/main/resources/assets/chocolate/lang"/>
 	<classpathentry kind="src" path="src/main/resources/assets/chocolate/textures/blocks"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>

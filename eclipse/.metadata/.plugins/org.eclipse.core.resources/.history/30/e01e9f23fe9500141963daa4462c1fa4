@@ -1,7 +1,0 @@
-package me.baronvonbubble.chocolate;
-
-import net.minecraft.block.Block;
-
-public class ChocolateCake extends Block {
-
-}
